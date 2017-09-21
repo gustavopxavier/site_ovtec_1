@@ -329,3 +329,6 @@ a.btn:focus{outline: 0;}
 .google-map .gmnoprint span {
   display: inline-block;
 }
+n.negrito {
+  font-weight: bold;
+}
